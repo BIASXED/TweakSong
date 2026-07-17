@@ -1,4 +1,5 @@
-this might not ever get release lol 
+dont think this is gonna release ever
+
 ![Picture of main screen](Screenshot%202025-09-18%20155750.png)
 
 ![Picture of Mod Screen](Screenshot%202025-09-18%20155948.png)
